@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Inlämningsuppgift 3 Skiss/1.0.0": {
+        "runtime": {
+          "Inlämningsuppgift 3 Skiss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inlämningsuppgift 3 Skiss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

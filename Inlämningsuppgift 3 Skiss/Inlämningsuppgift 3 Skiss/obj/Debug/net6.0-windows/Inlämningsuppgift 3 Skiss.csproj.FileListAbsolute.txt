@@ -1,0 +1,34 @@
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.exe
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.deps.json
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.runtimeconfig.json
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.dll
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\ref\Inlämningsuppgift 3 Skiss.dll
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.pdb
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.csproj.AssemblyReference.cache
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift_3_Skiss.Form1.resources
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.csproj.GenerateResource.cache
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.AssemblyInfoInputs.cache
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.AssemblyInfo.cs
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.csproj.CoreCompileInputs.cache
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.dll
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\ref\Inlämningsuppgift 3 Skiss.dll
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.pdb
+C:\Users\Evie\Documents\Mina projekt\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.genruntimeconfig.cache
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.exe
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.deps.json
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.runtimeconfig.json
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.dll
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\bin\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.pdb
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.csproj.AssemblyReference.cache
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift_3_Skiss.Form1.resources
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.csproj.GenerateResource.cache
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.AssemblyInfoInputs.cache
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.AssemblyInfo.cs
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.csproj.CoreCompileInputs.cache
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.dll
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\refint\Inlämningsuppgift 3 Skiss.dll
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.pdb
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\Inlämningsuppgift 3 Skiss.genruntimeconfig.cache
+C:\Users\stein\Downloads\Inlamningsuppgift_3_Skiss\Inlämningsuppgift 3 Skiss\Inlämningsuppgift 3 Skiss\obj\Debug\net6.0-windows\ref\Inlämningsuppgift 3 Skiss.dll
